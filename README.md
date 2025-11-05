@@ -1,6 +1,8 @@
 # MEB Preheat
 This repository contains information on how to build a cable harness that can inject preheating messages to MEB cars, allowing for battery preheating while driving. Tested on ID.4 but should look similar on ID.3, Skoda Enyaq, ID.Buzz, Cupra Born, and others.
 
+Technokratie on Youtube made an [excellent video](https://m.youtube.com/watch?v=3ejjhapogiU) of the installation procedure. In German but english dub is available.
+
 ## Step 1
 Buy [a cable](https://www.aliexpress.com/item/1005008006846323.html) and a [USB2CANFDv1](https://www.aliexpress.com/item/1005007126451299.html). You will also need a ST-Link V2 (or [a clone](https://www.aliexpress.com/item/33010611392.html)) and a 1.5m USB-C to USB-C cable.
 
